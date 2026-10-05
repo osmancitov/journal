@@ -1,3 +1,7 @@
+![El Journal](img/journal_social.jpg)
+
+[Lobby](https://github.com/osmancitov/osmancitov.github.io/blob/main/README.md) · [Destilería](https://github.com/osmancitov/destileria/blob/main/README.md) · [Taller](https://github.com/osmancitov/taller/blob/main/README.md) · **Journal**
+
 # El Journal
 
 Libro de visitas del proyecto Destilería Osmancito: una entrada por día, un día en la vida de osmancito y snakecita, su ayudante nada-aprendiz, contado en prosa lírica.
