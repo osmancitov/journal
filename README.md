@@ -7,5 +7,6 @@ Libro de visitas del proyecto Destilería Osmancito: una entrada por día, un d�
 
 Entradas que ya existen:
 
+- [Torres, puertas, marfil y luz](md/2026-10-05-torres-puertas-marfil-luz.md) · 5 de octubre de 2026.
 - [Torta, ciprés, barquillas y sismograma](md/2026-10-04-torta-cipres-barquillas-sismograma.md) · 4 de octubre de 2026.
 - [Pirámides, motores, apagón y libreta](md/2026-10-03-un-dia-en-la-vida.md) · 3 de octubre de 2026.
