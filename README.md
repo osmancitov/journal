@@ -1,4 +1,4 @@
-![El Journal](img/journal_social.jpg)
+![El Journal](img/journal.jpg)
 
 [Lobby](https://github.com/osmancitov/osmancitov.github.io/blob/main/README.md) · [Destilería](https://github.com/osmancitov/destileria/blob/main/README.md) · [Taller](https://github.com/osmancitov/taller/blob/main/README.md) · **Journal**
 
