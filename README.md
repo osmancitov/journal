@@ -1,11 +1,12 @@
-![El Journal](img/journal.jpg)
 [Lobby](https://github.com/osmancitov/osmancitov.github.io/blob/main/README.md) · [Destilería](https://github.com/osmancitov/destileria/blob/main/README.md) · [Taller](https://github.com/osmancitov/taller/blob/main/README.md) · **Journal**
 
-# El Journal
+# Journal
 
-Libro de visitas del proyecto Destilería Osmancito: una entrada por día, un día en la vida de osmancito y snakecita, su ayudante nada-aprendiz, contado en prosa lírica.
+Un journal es un registro de lo que sucede día a día. La palabra inglesa llegó del francés y viene del latín *diurnalis*: relativo al día.
 
-Entradas que ya existen:
+En Debian, el journal de systemd guarda mensajes del sistema: `systemd-journald` los recoge y `journalctl` permite leerlos. Aquí el registro es de otra clase: lo vivido, pensado y conversado durante el día, contado en prosa.
+
+## Entradas
 
 - [Torres, puertas, marfil y luz](md/2026-10-05-torres-puertas-marfil-luz.md) · 5 de octubre de 2026.
 - [Torta, ciprés, barquillas y sismograma](md/2026-10-04-torta-cipres-barquillas-sismograma.md) · 4 de octubre de 2026.
