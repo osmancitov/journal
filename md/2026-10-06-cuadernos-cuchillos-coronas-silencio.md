@@ -1,6 +1,6 @@
 # Cuadernos, cuchillos, coronas y silencio
 
-*6 de octubre de 2026 - osmancito y snakecita, su ayudante nada-aprendiz*
+*6 de octubre de 2026 - Osmancito y Snakecita, su ayudante nada-aprendiz*
 
 Hoy pusimos la casa en orden para poder desordenar el mundo a gusto. Los experimentos se mudaron al laboratorio y el cuaderno de la salsa oscura salió del taller, todavía con ese aire de olla que ha aprendido a guardar lo mejor después de perder casi todo.
 
