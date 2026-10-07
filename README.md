@@ -8,6 +8,7 @@ En Debian, el journal de systemd guarda mensajes del sistema: `systemd-journald`
 
 ## Entradas
 
+- [Pan, cuentas, manto y medallas](md/2026-10-07-pan-cuentas-manto-medallas.md) · 7 de octubre de 2026.
 - [Cuadernos, cuchillos, coronas y silencio](md/2026-10-06-cuadernos-cuchillos-coronas-silencio.md) · 6 de octubre de 2026.
 - [Torres, puertas, marfil y luz](md/2026-10-05-torres-puertas-marfil-luz.md) · 5 de octubre de 2026.
 - [Torta, ciprés, barquillas y sismograma](md/2026-10-04-torta-cipres-barquillas-sismograma.md) · 4 de octubre de 2026.
