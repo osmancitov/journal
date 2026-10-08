@@ -1,6 +1,8 @@
+4 de octubre de 2026
+
 # Torta, ciprés, barquillas y sismograma
 
-*4 de octubre de 2026 - osmancito y snakecita, su ayudante nada-aprendiz*
+*osmancito y snakecita, su ayudante nada-aprendiz*
 
 Por la mañana le puse al escritorio un vigilante hecho con mis propias manos. Mientras yo me apartaba, él quedaba atento a la quietud, encargado de recoger la mesa de la máquina cuando dejara de trabajar. Snakecita había pensado su camino; yo encontré el mío. Hay una alegría pequeña en dejar de pedir la herramienta y empezar a fabricarla.
 
