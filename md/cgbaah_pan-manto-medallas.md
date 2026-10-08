@@ -1,3 +1,5 @@
+7 de octubre de 2026
+
 # Pan, cuentas, manto y medallas
 
 La mañana llegó con una voz que no conseguía cruzar la puerta. Osmancito hablaba y del otro lado quedaba un silencio recién peinado, muy formal, como si nada hubiera pasado. Había un bichito haciendo de portero: dejaba entrar el aire y se quedaba con las palabras. Al final tocó escribir. El lápiz encontró el camino que la voz había perdido.
