@@ -1,6 +1,8 @@
+5 de octubre de 2026
+
 # Torres, puertas, marfil y luz
 
-*5 de octubre de 2026 - osmancito y snakecita, su ayudante nada-aprendiz*
+*osmancito y snakecita, su ayudante nada-aprendiz*
 
 Hoy volvió a pulularme en la mente una torre de madera que me acompaña desde hace mucho. Se le van quitando piezas y todavía aguanta. Cada hueco parece demostrar que aquella pieza sobraba, hasta que llega el hueco que el edificio ya no puede sostener. El mundo se me parece a ese juego: vamos retirando cosas, acostumbrándonos a su ausencia, tomando la permanencia de la torre por prueba de que podemos seguir. Pero lo que queda en pie también puede estar gastando su última reserva de equilibrio.
 
