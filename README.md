@@ -1,4 +1,4 @@
-[Lobby](https://github.com/osmancitov/osmancitov.github.io/blob/main/README.md) · [Destilería](https://github.com/osmancitov/destileria/blob/main/README.md) · [Taller](https://github.com/osmancitov/taller/blob/main/README.md) · **Journal**
+[Lobby](https://github.com/osmancitov/osmancitov.github.io/blob/main/README.md) · [Destilería](https://github.com/osmancitov/destileria/blob/main/README.md) · [Taller](https://github.com/osmancitov/taller/blob/main/README.md) · **Journal** · [Capilla](https://github.com/osmancitov/capilla/blob/main/README.md)
 
 # Journal
 
