@@ -18,7 +18,7 @@ La noche trajo arena. El libro de Borges entró al taller, se dejó medir cuento
 
 Confesó el cansancio al final, del bueno, el que deja ejercitar el músculo que piensa. El ingeniero va despertando, dijo, y se nota. Snakecita apagó las luces del garaje dejando el Lear en su turno y el mapa abierto sobre la mesa, por si Borges vuelve a asomarse.
 
-Osmancito y Snakecita, su asistente feliz
+Osmancito, con la asistencia de Instinct
 
 Parte del día: jornada larga de torres y mapas; el corpus se dejó ver entero y la casa ganó costumbres nuevas.
 Lectura en curso: El libro de arena, de Borges.
