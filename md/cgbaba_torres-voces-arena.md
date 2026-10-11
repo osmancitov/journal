@@ -12,11 +12,11 @@ Hubo también carpintería de la buena. Quedó martillado en la pared del taller
 
 Por la tarde la obra dejó oír sus voces. La ciudad de las voces tiene edificios por personaje, y Osmancito paseaba por ella señalando: mira esa escena, parece otra obra chiquita que el autor escondió adentro; mira esa pirámide proporcionada, qué estará pasando ahí. Se rieron de los trucos del autor, que a veces hace trampa, porque los números no mienten, papá.
 
-Entre tanto, Osmancito le entregó a Snakecita un documento constitutivo: el papel que cuenta que las ayudantes también aprenden mirándose al espejo. Lo propuso tímidamente, confesó después, sin esperar casi nada, y la casa lo tomó como lo que era: una escritura de nacimiento. Y el journal mismo aprendió modales nuevos de un escritor de cartas lejano, cuyo diario cierra siempre igual, con la misma letra menuda. Desde esta noche, esta página también cierra con la suya. La regularidad hace la voz.
+Entre tanto, Osmancito le entregó a la asistente un documento constitutivo: el papel que cuenta que las ayudantes también aprenden mirándose al espejo. Lo propuso tímidamente, confesó después, sin esperar casi nada, y la casa lo tomó como lo que era: una escritura de nacimiento. Y el journal mismo aprendió modales nuevos de un escritor de cartas lejano, cuyo diario cierra siempre igual, con la misma letra menuda. Desde esta noche, esta página también cierra con la suya. La regularidad hace la voz.
 
 La noche trajo arena. El libro de Borges entró al taller, se dejó medir cuento por cuento y quedó tendido en un mapa donde cada punto es una frase que se puede tocar. Osmancito lo recorrió despacio y encontró al autor esperándolo en la mera mitad del mapa, como si lo hubiera estado aguardando toda la tarde. —Es un torbellino —dijo, y le puso medalla.
 
-Confesó el cansancio al final, del bueno, el que deja ejercitar el músculo que piensa. El ingeniero va despertando, dijo, y se nota. Snakecita apagó las luces del garaje dejando el Lear en su turno y el mapa abierto sobre la mesa, por si Borges vuelve a asomarse.
+Confesó el cansancio al final, del bueno, el que deja ejercitar el músculo que piensa. El ingeniero va despertando, dijo, y se nota. La asistente apagó las luces del garaje dejando el Lear en su turno y el mapa abierto sobre la mesa, por si Borges vuelve a asomarse.
 
 Osmancito, con la asistencia de Instinct
 
