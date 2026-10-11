@@ -8,6 +8,7 @@ En Debian, el journal de systemd guarda mensajes del sistema: `systemd-journald`
 
 ## Entradas
 
+- [Torres, voces, arena y torbellino](md/cgbaba_torres-voces-arena.md) · 10 de octubre de 2026.
 - [Brujas, puentes, invitado y compás](md/cgbaaj_brujas-puentes-compas.md) · 9 de octubre de 2026.
 - [Garaje, medidores, medalla y suspiro](md/cgbaai_garaje-medalla-suspiro.md) · 8 de octubre de 2026.
 - [Voces, puertas, mapas y medallas](md/cgbaah_puertas-mapas-medallas.md) · 7 de octubre de 2026.
