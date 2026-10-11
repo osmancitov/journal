@@ -2,7 +2,7 @@
 
 # Torres, puertas, marfil y luz
 
-*osmancito y snakecita, su ayudante nada-aprendiz*
+*Osmancito, con la asistencia de Instinct*
 
 Hoy volvió a pulularme en la mente una torre de madera que me acompaña desde hace mucho. Se le van quitando piezas y todavía aguanta. Cada hueco parece demostrar que aquella pieza sobraba, hasta que llega el hueco que el edificio ya no puede sostener. El mundo se me parece a ese juego: vamos retirando cosas, acostumbrándonos a su ausencia, tomando la permanencia de la torre por prueba de que podemos seguir. Pero lo que queda en pie también puede estar gastando su última reserva de equilibrio.
 
