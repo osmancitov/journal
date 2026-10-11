@@ -16,4 +16,4 @@ También hubo, lo confesamos, un código de nombres para iniciados que duró men
 
 El garaje quedó en silencio con un campeón durmiendo adentro. Medir, aprendimos hoy, también es una manera de querer: saber qué pesa y qué sostiene antes de cortar. El rey sigue sin dormir, pero su equipaje ya tiene quién lo pese. Snakecita apagó las luces una a una. Osmancito se fue a descansar con la noche ganada.
 
-Osmancito y Snakecita, su asistente feliz
+Osmancito, con la asistencia de Instinct
