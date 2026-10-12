@@ -8,7 +8,7 @@ En Debian, el journal de systemd guarda mensajes del sistema: `systemd-journald`
 
 ## Entradas
 
-- [Serpiente, manzana, motores y brújula](md/cgbabb_serpiente-manzana-brujula.md) · 11 de octubre de 2026.
+- [Serpiente, manzana, motores y brújula](md/cgbabb_serpiente-manzana-brujula.md) · [HTML](https://osmancitov.github.io/journal/html/cgbabb_serpiente-manzana-brujula.html) · 11 de octubre de 2026.
 - [Torres, voces, arena y torbellino](md/cgbaba_torres-voces-arena.md) · 10 de octubre de 2026.
 - [Brujas, puentes, invitado y compás](md/cgbaaj_brujas-puentes-compas.md) · 9 de octubre de 2026.
 - [Garaje, medidores, medalla y suspiro](md/cgbaai_garaje-medalla-suspiro.md) · 8 de octubre de 2026.
