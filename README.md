@@ -12,7 +12,7 @@ En Debian, el journal de systemd guarda mensajes del sistema: `systemd-journald`
 - [Torres, voces, arena y torbellino](md/cgbaba_torres-voces-arena.md) · [HTML](https://osmancitov.github.io/journal/html/cgbaba_torres-voces-arena.html) · 10 de octubre de 2026.
 - [Brujas, puentes, invitado y compás](md/cgbaaj_brujas-puentes-compas.md) · [HTML](https://osmancitov.github.io/journal/html/cgbaaj_brujas-puentes-compas.html) · 9 de octubre de 2026.
 - [Garaje, medidores, medalla y suspiro](md/cgbaai_garaje-medalla-suspiro.md) · [HTML](https://osmancitov.github.io/journal/html/cgbaai_garaje-medalla-suspiro.html) · 8 de octubre de 2026.
-- [Voces, puertas, mapas y medallas](md/cgbaah_puertas-mapas-medallas.md) · 7 de octubre de 2026.
+- [Voces, puertas, mapas y medallas](md/cgbaah_puertas-mapas-medallas.md) · [HTML](https://osmancitov.github.io/journal/html/cgbaah_puertas-mapas-medallas.html) · 7 de octubre de 2026.
 - [Cuadernos, cuchillos, coronas y silencio](md/cgbaag_cuadernos-coronas-silencio.md) · 6 de octubre de 2026.
 - [Torres, puertas, marfil y luz](md/cgbaaf_torres-marfil-luz.md) · 5 de octubre de 2026.
 - [Torta, ciprés, barquillas y sismograma](md/cgbaae_torta-cipres-barquillas.md) · 4 de octubre de 2026.
