@@ -8,6 +8,8 @@ En Debian, el journal de systemd guarda mensajes del sistema: `systemd-journald`
 
 ## Entradas
 
+- [Producción de Instinct](md/cgbabd_produccion-instinct.md) · [HTML](https://osmancitov.github.io/journal/html/cgbabd_produccion-instinct.html) · actividad actual y trabajos realizados.
+
 - [Rebeldes, didascalias, andamios y pausa](md/cgbabc_rebeldes-didascalias-pausa.md) · [HTML](https://osmancitov.github.io/journal/html/cgbabc_rebeldes-didascalias-pausa.html) · 12 de octubre de 2026.
 - [Serpiente, manzana, motores y brújula](md/cgbabb_serpiente-manzana-brujula.md) · [HTML](https://osmancitov.github.io/journal/html/cgbabb_serpiente-manzana-brujula.html) · 11 de octubre de 2026.
 - [Torres, voces, arena y torbellino](md/cgbaba_torres-voces-arena.md) · [HTML](https://osmancitov.github.io/journal/html/cgbaba_torres-voces-arena.html) · 10 de octubre de 2026.
