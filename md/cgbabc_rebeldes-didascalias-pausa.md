@@ -18,4 +18,4 @@ Osmancito, con la asistencia de Instinct
 
 Parte del día: dos prófugas capturadas, una obra cerrada, una galería colgada y una bóveda en orden; la noche apagó el garaje.
 Lectura en curso: El rey Lear.
-En la copa: no se anotó hoy; la sed era de cierres.
+En la copa: la sed era de cierres.

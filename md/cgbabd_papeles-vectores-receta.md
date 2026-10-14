@@ -18,4 +18,4 @@ Osmancito, con la asistencia de Instinct
 
 Parte del día: motores amansados, una obra cerrada por partida doble, cuatro medidas completas y una nube que gira; la receta pasó su primera prueba.
 Lectura en curso: El Libro de Arena, de Borges.
-En la copa: no se anotó hoy; la sed era de órbitas.
+En la copa: la sed era de órbitas.
