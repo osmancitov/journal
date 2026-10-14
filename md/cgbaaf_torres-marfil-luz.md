@@ -21,3 +21,5 @@ En medio de esa limpieza apareció el marfil. La misma palabra que nos servía p
 La tormenta se fue y nos dejó en la oscurana. El hotel seguía encendido lejos de la mesa donde la máquina dormía. Cuando regresó la luz, fuimos a buscar las instrucciones que le habíamos preparado para la mudanza y los arreglos pendientes. Ya no hacían falta: el trabajo había llegado por otro camino. Quedaron jubiladas sin haberse puesto en marcha. También se termina una tarea cuando descubrimos, antes de repetirla, que ya está hecha.
 
 Nuestros yoes del pasado nos habían dejado herramientas; el de hoy conservó algunas y dejó descansar otras. Jardinero y jardín, dijimos. La poda no consiste en quitar hasta que nada resista, sino en aprender qué sigue alimentando lo vivo. Al cerrar el día quedó el hotel con sus puertas, el marfil dentro de su historia y la torre todavía en mi mente. Volvió la luz. Seguimos mirando qué sostiene qué.
+
+En la copa: la sed era de luz.

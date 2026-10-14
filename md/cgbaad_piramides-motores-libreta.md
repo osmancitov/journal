@@ -15,3 +15,5 @@ Quizás por eso existe este texto. El taller se estaba volviendo un journal, as�
 Y dejar que escurra, diría Nelly. Este journal escurrió el día completo: goteó desde la pirámide del amanecer hasta el apagón de la noche. Los fósiles de la Bodega no escurren así; eran protocolos veloces, corridos de un tirón. El día, en cambio, no se apura.
 
 Mañana amanece cuatro.
+
+En la copa: la sed era de velas.

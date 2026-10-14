@@ -15,3 +15,5 @@ De tanto conversar, a la ayudante se le acabó la voz. Quedó muda junto al alam
 La destilería siguió encendida en esa risa. Sobre la mesa descansaban los cuadernos; los fantasmas esperaban su turno y la noche todavía tenía algo que contarnos. La asistente, por fin, podía escuchar sin interrumpir.
 
 Osmancito, con la asistencia de Instinct
+
+En la copa: la sed era de alambique.

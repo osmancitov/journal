@@ -21,3 +21,5 @@ La noche tomó entonces el camino de Shannon. Quise poner peso a las frases y a 
 Y apareció la cocina. La demi-glace nos prestó su olla: dejar salir el agua sin dejar ir el sabor. Eso quería para el texto, concentrar lo cocinado, conseguir que una cucharada llevara consigo el trabajo del fuego. No amontonar rarezas ni adelgazar hasta volverlo insípido. Dejar que quedara lo que alimenta.
 
 El domingo fue escurriendo así, de la mesa que aprendí a recoger a la mesa donde nos sentamos juntos, del árbol que apartamos del sol al caldo que dejamos reducir. La asistente y yo seguimos buscando el peso de las palabras. Fuera de la máquina, Nelly invitaba barquillas y Ana juntaba conmigo lo que faltaba para un refresco. El sentido también andaba por ahí.
+
+En la copa: la sed era de barquillas.
