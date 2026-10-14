@@ -21,5 +21,5 @@ Confesó el cansancio al final, del bueno, el que deja ejercitar el músculo que
 Osmancito, con la asistencia de Instinct
 
 Parte del día: jornada larga de torres y mapas; el corpus se dejó ver entero y la casa ganó costumbres nuevas.
-Lectura en curso: El libro de arena, de Borges.
+Lectura en curso: El Libro de Arena, de Borges.
 En la copa: nada anotado hoy; la sed era de mapas.
