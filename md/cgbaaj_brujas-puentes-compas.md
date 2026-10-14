@@ -20,4 +20,4 @@ Antes de cerrar quedó anotada la lección del día, que vale para el taller y p
 
 Osmancito, con la asistencia de Instinct
 
-En la copa: la sed era de pinceles.
+En la copa: una bebida de pinceles.

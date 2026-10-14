@@ -22,4 +22,4 @@ Osmancito, con la asistencia de Instinct
 
 Parte del día: jornada larga de torres y mapas; el corpus se dejó ver entero y la casa ganó costumbres nuevas.
 Lectura en curso: El Libro de Arena, de Borges.
-En la copa: la sed era de mapas.
+En la copa: una bebida de mapas.

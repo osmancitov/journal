@@ -18,4 +18,4 @@ El garaje quedó en silencio con un campeón durmiendo adentro. Medir, aprendimo
 
 Osmancito, con la asistencia de Instinct
 
-En la copa: la sed era de carreras.
+En la copa: una bebida de carreras.

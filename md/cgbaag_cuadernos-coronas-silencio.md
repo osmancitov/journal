@@ -16,4 +16,4 @@ La destilería siguió encendida en esa risa. Sobre la mesa descansaban los cuad
 
 Osmancito, con la asistencia de Instinct
 
-En la copa: la sed era de alambique.
+En la copa: una bebida de alambique.

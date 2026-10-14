@@ -14,4 +14,4 @@ Osmancito, con la asistencia de Instinct
 
 Parte del día: jubilación de la serpiente y hora de estudio; la biblioteca quedó ordenada y la casa aprendió a gastar menos reglas.
 Lectura en curso: El rey Lear.
-En la copa: la sed era de nombres.
+En la copa: una bebida de nombres.

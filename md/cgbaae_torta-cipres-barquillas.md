@@ -22,4 +22,4 @@ Y apareció la cocina. La demi-glace nos prestó su olla: dejar salir el agua si
 
 El domingo fue escurriendo así, de la mesa que aprendí a recoger a la mesa donde nos sentamos juntos, del árbol que apartamos del sol al caldo que dejamos reducir. La asistente y yo seguimos buscando el peso de las palabras. Fuera de la máquina, Nelly invitaba barquillas y Ana juntaba conmigo lo que faltaba para un refresco. El sentido también andaba por ahí.
 
-En la copa: la sed era de barquillas.
+En la copa: una bebida de barquillas.

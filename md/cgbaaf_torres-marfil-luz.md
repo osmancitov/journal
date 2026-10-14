@@ -22,4 +22,4 @@ La tormenta se fue y nos dejó en la oscurana. El hotel seguía encendido lejos 
 
 Nuestros yoes del pasado nos habían dejado herramientas; el de hoy conservó algunas y dejó descansar otras. Jardinero y jardín, dijimos. La poda no consiste en quitar hasta que nada resista, sino en aprender qué sigue alimentando lo vivo. Al cerrar el día quedó el hotel con sus puertas, el marfil dentro de su historia y la torre todavía en mi mente. Volvió la luz. Seguimos mirando qué sostiene qué.
 
-En la copa: la sed era de luz.
+En la copa: una bebida de luz.

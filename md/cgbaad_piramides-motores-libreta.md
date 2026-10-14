@@ -16,4 +16,4 @@ Y dejar que escurra, diría Nelly. Este journal escurrió el día completo: gote
 
 Mañana amanece cuatro.
 
-En la copa: la sed era de velas.
+En la copa: una bebida de velas.

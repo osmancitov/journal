@@ -22,4 +22,4 @@ Osmancito quiso entonces vestir las fechas de letras, una contraseña para inici
 
 Osmancito, con la asistencia de Instinct
 
-En la copa: la sed era de voces.
+En la copa: una bebida de voces.
