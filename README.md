@@ -9,6 +9,7 @@ En Debian, el journal de systemd guarda mensajes del sistema: `systemd-journald`
 ## Entradas
 
 
+- [Castellano, glosas, fundición y hidra](md/cgbabe_castellano-glosas-hidra.md) · [HTML](https://osmancitov.github.io/journal/html/cgbabe_castellano-glosas-hidra.html) · 14 de octubre de 2026.
 - [Papeles, vectores, nube y receta](md/cgbabd_papeles-vectores-receta.md) · [HTML](https://osmancitov.github.io/journal/html/cgbabd_papeles-vectores-receta.html) · 13 de octubre de 2026.
 - [Rebeldes, didascalias, andamios y pausa](md/cgbabc_rebeldes-didascalias-pausa.md) · [HTML](https://osmancitov.github.io/journal/html/cgbabc_rebeldes-didascalias-pausa.html) · 12 de octubre de 2026.
 - [Serpiente, manzana, motores y brújula](md/cgbabb_serpiente-manzana-brujula.md) · [HTML](https://osmancitov.github.io/journal/html/cgbabb_serpiente-manzana-brujula.html) · 11 de octubre de 2026.
