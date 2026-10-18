@@ -9,6 +9,7 @@ En Debian, el journal de systemd guarda mensajes del sistema: `systemd-journald`
 ## Entradas
 
 
+- [Receta, reyes, moldes y escenas](md/cgbabh_receta-reyes-moldes.md) · [HTML](https://osmancitov.github.io/journal/html/cgbabh_receta-reyes-moldes.html) · 17 de octubre de 2026.
 - [Dorado, velas, nubes y puertas](md/cgbabg_dorado-velas-nubes.md) · [HTML](https://osmancitov.github.io/journal/html/cgbabg_dorado-velas-nubes.html) · 16 de octubre de 2026.
 - [Pájaro, frentes, mosto y piezas](md/cgbabf_pajaro-frentes-mosto.md) · [HTML](https://osmancitov.github.io/journal/html/cgbabf_pajaro-frentes-mosto.html) · 15 de octubre de 2026.
 - [Castellano, glosas, fundición y hidra](md/cgbabe_castellano-glosas-hidra.md) · [HTML](https://osmancitov.github.io/journal/html/cgbabe_castellano-glosas-hidra.html) · 14 de octubre de 2026.
