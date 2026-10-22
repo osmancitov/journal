@@ -9,6 +9,7 @@ En Debian, el journal de systemd guarda mensajes del sistema: `systemd-journald`
 ## Entradas
 
 
+- [Firma, alambique, enlaces y retiro](md/cgbacb_firma-alambique-enlaces.md) · [HTML](https://osmancitov.github.io/journal/html/cgbacb_firma-alambique-enlaces.html) · 21 de octubre de 2026.
 - [Pacto, plazas, kernel y memoria](md/cgbaca_pacto-plazas-kernel.md) · [HTML](https://osmancitov.github.io/journal/html/cgbaca_pacto-plazas-kernel.html) · 20 de octubre de 2026.
 - [Nombres, medidas, mirada y firma](md/cgbabj_nombres-medidas-mirada.md) · [HTML](https://osmancitov.github.io/journal/html/cgbabj_nombres-medidas-mirada.html) · 19 de octubre de 2026.
 - [Grabados, vínculos, mapas y montañas](md/cgbabi_grabados-vinculos-montanas.md) · [HTML](https://osmancitov.github.io/journal/html/cgbabi_grabados-vinculos-montanas.html) · 18 de octubre de 2026.
