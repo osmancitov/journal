@@ -10,7 +10,7 @@ Por la tarde la biblioteca se puso en orden. Las tres obras de la casa quedaron 
 
 De noche, dos motores nuevos corrieron la misma carrera y el pronóstico se cumplió: galopan parejo, casi gemelos. Uno soltó noventa y cuatro palabras antes de quedarse pensando; el otro se cortó a mitad de la frase, pero ya responde por la corriente viva. Mañana se traduce. El ánimo de la casa cerró en eso, en ponerle nombre a las cosas, que es la manera más antigua de entenderlas.
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito
 
 Parte del día: jubilación de la serpiente y hora de estudio; la biblioteca quedó ordenada y la casa aprendió a gastar menos reglas.
 Lectura en curso: El rey Lear.

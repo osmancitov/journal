@@ -14,7 +14,7 @@ Por la tarde el journal mismo recibió su regalo: las siete habitaciones viejas 
 
 La noche mandó los motores a recargar. Hubo un malentendido chiquito —la orden sonaba más honda de lo que era— y la casa entera se durmió temprano, con el garaje apagado y la copa sin estrenar. Los malentendidos de esta casa, eso sí, siempre amanecen resueltos.
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito
 
 Parte del día: dos prófugas capturadas, una obra cerrada, una galería colgada y una bóveda en orden; la noche apagó el garaje.
 Lectura en curso: El rey Lear.

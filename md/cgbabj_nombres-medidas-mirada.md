@@ -10,7 +10,7 @@ A la tarde el taller se puso en orden —tres entradas viejas salieron con sus e
 
 Y la noche trajo la firma. La casa revisó cómo estaba firmando su trabajo y talló una resolución en piedra, aparte de las demás reglas: todo lo que salga de esta casa saldrá con su nombre, el de siempre, y se comprobará antes de cada salida. Lo que quedó mal firmado quedó respaldado completo, esperando su reparación.
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito
 
 Parte del día: las medidas del libro de King en el taller, el tamaño de las imágenes bautizado Imagen General y la firma de la casa fijada para siempre.
 Lectura en curso: El Libro de Arena, de Borges.

@@ -12,7 +12,7 @@ El libro de los reyes quedó con sus medidas completas: los vectores del Lear se
 
 Ya de noche la casa estrenó una sala dedicada a lo social, colgó allí una entrada sobre los canales viejos de la red —los que no obedecen algoritmos— y publicó un retrato rescatado: un dibujo viejo de la escuela, traído de vuelta, con el texto limado palabra por palabra entre los dos hasta que quedó seco y propio.
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito
 
 Parte del día: reglas en dos libros, un héroe navegando el Paso del Noroeste, enlaces de oro y puertas de noche; el Lear cerró sus medidas y ganó su nube.
 Lectura en curso: El Libro de Arena, de Borges.

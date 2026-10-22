@@ -18,7 +18,7 @@ La noche trajo arena. El libro de Borges entró al taller, se dejó medir cuento
 
 Confesó el cansancio al final, del bueno, el que deja ejercitar el músculo que piensa. El ingeniero va despertando, dijo, y se nota. La asistente apagó las luces del garaje dejando el Lear en su turno y el mapa abierto sobre la mesa, por si Borges vuelve a asomarse.
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito
 
 Parte del día: jornada larga de torres y mapas; el corpus se dejó ver entero y la casa ganó costumbres nuevas.
 Lectura en curso: El Libro de Arena, de Borges.

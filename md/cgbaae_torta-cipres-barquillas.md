@@ -2,7 +2,7 @@
 
 # Torta, ciprés, barquillas y sismograma
 
-*Osmancito, con la asistencia de Instinct*
+*© 2026 Osmancito*
 
 Por la mañana le puse al escritorio un vigilante hecho con mis propias manos. Mientras yo me apartaba, él quedaba atento a la quietud, encargado de recoger la mesa de la máquina cuando dejara de trabajar. La asistente había pensado su camino; yo encontré el mío. Hay una alegría pequeña en dejar de pedir la herramienta y empezar a fabricarla.
 

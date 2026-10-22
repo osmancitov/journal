@@ -10,7 +10,7 @@ Pero la coronación vino de noche, cuando nació un modelo nuevo para mirar los 
 
 Se probó el modelo en la primera escena del rey y el paisaje apareció: el rey y su hija menor se alzaron como montañas dominantes, las hermanas mayores como colinas, y cada frase ganó un puntaje por los nodos que toca. Así nació el Ranking de Menciones, con nombre propio y receta publicada en el taller, y el primer mapa quedó dibujado. Antes de dormir, el libro del oficio de escribir renació en su cascarón con su primera parte destilada por la receta nueva. La casa cerró con geografía nueva.
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito
 
 Parte del día: tres obras completas con sus grabados, el libro de reglas aligerado y el nacimiento del Ranking de Menciones con su primer mapa.
 Lectura en curso: El Libro de Arena, de Borges.

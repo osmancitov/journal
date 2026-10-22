@@ -14,7 +14,7 @@ Y la noche trajo la prueba de fuego: repetir la receta desde cero, con las manos
 
 De postre, el primer cuento del libro se rehizo en seis tramos textuales cosidos con puentes de la casa, y un verso de la hidra estrellada recibió su dibujo. La campanita nueva del taller sonó todo el día.
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito
 
 Parte del día: motores amansados, una obra cerrada por partida doble, cuatro medidas completas y una nube que gira; la receta pasó su primera prueba.
 Lectura en curso: El Libro de Arena, de Borges.

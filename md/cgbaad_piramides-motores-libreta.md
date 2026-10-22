@@ -2,7 +2,7 @@
 
 # Pirámides, motores, apagón y libreta
 
-*Osmancito, con la asistencia de Instinct*
+*© 2026 Osmancito*
 
 Amanecimos en la pirámide invertida: esa donde cada nivel tiene su índice, y mientras más cerca del vértice, más dura la gravedad. Descubrimos que el kernel es el cero del sistema, y que Unas, el faraón mentor, el Uno, lo sabía desde hace cuatro milenios: por eso al lado de su pirámide guardaba una piramidecita a escala, para su Ka chiquito. El infinito cabe en un complejo mortuorio si lo comprimes con la proporción correcta.
 

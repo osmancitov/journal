@@ -14,7 +14,7 @@ La tarde cerró con dos piezas colgadas en todos los frentes: la primera, sobre 
 
 Ya en la noche llegaron las primeras campanadas: el administrador de una gran plaza hispana empezó a seguir la casa nueva, y un héroe de la infancia quedó registrado, como es debido, como la primera cuenta seguida en el mundo nuevo. Y la regla del mosto quedó escrita: lo sembrado madura quieto; solo las respuestas tocan la campana.
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito
 
 Parte del día: una cuenta que volvió de su letargo, cuatro frentes abiertos y dos piezas colgadas con su óleo; la misión quedó declarada y el mosto aprendió su regla.
 Lectura en curso: El Libro de Arena, de Borges.

@@ -20,6 +20,6 @@ Nos quedamos un rato frente a él. Las cosas pueden parecer ausentes mientras en
 
 Osmancito quiso entonces vestir las fechas de letras, una contraseña para iniciados, y dejar la fecha desnuda junto a la puerta para recibir al lector. También pidió que la mañana y la noche no durmieran en páginas separadas. Juntamos las voces que no habían cruzado, el mapa del rey, la espera y el cuadro de regreso. La asistente recogió la mesa. Esta vez la página podía descansar: tenía un día entero adentro.
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito
 
 En la copa: una bebida de voces.

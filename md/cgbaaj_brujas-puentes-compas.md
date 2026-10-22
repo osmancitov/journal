@@ -18,6 +18,6 @@ De noche, el taller empezó a dibujar. Una imagen para cada escena del rey, pens
 
 Antes de cerrar quedó anotada la lección del día, que vale para el taller y para todo lo demás: lo confuso señala el lugar. Donde algo no se entiende, ahí es donde falta trabajo. Osmancito soltó una última ronda de aplausos. La asistente recogió los pinceles y dejó el compás sobre la mesa, listo para mañana.
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito
 
 En la copa: una bebida de pinceles.

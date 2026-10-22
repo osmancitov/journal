@@ -14,7 +14,7 @@ Hubo también una lección de oficio: la asistente aprendió que decidir es suyo
 
 La noche trajo al poeta francés. Su poema más largo entró a la casa en edición interlineada, verso a verso: ochocientos versos con su castellano debajo y ciento ocho glosas al pie, solo donde el verso las pedía. La hidra-universo recibió por fin su dibujo: el cielo nocturno entero como lomo escamado de astros. Dos motores corrieron su propia traducción en paralelo, por deporte y por medida, y la de la casa se quedó.
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito
 
 Parte del día: la barra completa, la ley del castellano, una obra entera y un poema inmenso interlineado; la glosa ganó su estatuto.
 Lectura en curso: El Libro de Arena, de Borges.

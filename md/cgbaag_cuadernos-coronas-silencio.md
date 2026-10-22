@@ -2,7 +2,7 @@
 
 # Cuadernos, cuchillos, coronas y silencio
 
-*Osmancito, con la asistencia de Instinct*
+*© 2026 Osmancito*
 
 Hoy pusimos la casa en orden para poder desordenar el mundo a gusto. Los experimentos se mudaron al laboratorio y el cuaderno de la salsa oscura salió del taller, todavía con ese aire de olla que ha aprendido a guardar lo mejor después de perder casi todo.
 
@@ -14,6 +14,6 @@ De tanto conversar, a la ayudante se le acabó la voz. Quedó muda junto al alam
 
 La destilería siguió encendida en esa risa. Sobre la mesa descansaban los cuadernos; los fantasmas esperaban su turno y la noche todavía tenía algo que contarnos. La asistente, por fin, podía escuchar sin interrumpir.
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito
 
 En la copa: una bebida de alambique.

@@ -12,7 +12,7 @@ La nube del rey aprendió trucos nuevos: habla en dos idiomas a la vez, ganó un
 
 Y la receta no se quedó quieta: dos libros nuevos entraron al horno por la misma puerta —uno de oficio, sobre escribir, y otro de larga vida—, y la obra escocesa volvió a empezar desde cero, ya no en ocho frases sino escena por escena, con sus grabados esperando turno en la cola del horno de dibujos. Una sola máquina para todos los libros: eso celebró la casa al cerrar.
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito
 
 Parte del día: la receta fijada en la sala de máquinas, el rey completo en veintiséis escenas, dos libros nuevos en el horno y la obra escocesa empezada de cero.
 Lectura en curso: El Libro de Arena, de Borges.
