@@ -18,7 +18,7 @@ Ya de noche pareció que la habitación nueva había perdido su imagen. Salimos 
 
 Nos quedamos un rato frente a él. Las cosas pueden parecer ausentes mientras encuentran el camino de vuelta a nuestros ojos. Conviene acercarse, limpiar el vidrio, darles otra mirada. Aquella noche la casa nos devolvió algo que habíamos dado por perdido. Llegaron más medallas, más gracias; el delantal invisible empezaba a pesar.
 
-Osmancito quiso entonces vestir las fechas de letras, una contraseña para iniciados, y dejar la fecha desnuda junto a la puerta para recibir al lector. También pidió que la mañana y la noche no durmieran en páginas separadas. Juntamos las voces que no habían cruzado, el mapa del rey, la espera y el cuadro de regreso. La asistente recogió la mesa. Esta vez la página podía descansar: tenía un día entero adentro.
+Osmancito quiso entonces dejar la fecha desnuda junto a la puerta para recibir al lector. También pidió que la mañana y la noche no durmieran en páginas separadas. Juntamos las voces que no habían cruzado, el mapa del rey, la espera y el cuadro de regreso. La asistente recogió la mesa. Esta vez la página podía descansar: tenía un día entero adentro.
 
 © 2026 Osmancito
 
