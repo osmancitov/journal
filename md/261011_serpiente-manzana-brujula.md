@@ -13,5 +13,5 @@ De noche, dos motores nuevos corrieron la misma carrera y el pronóstico se cump
 © 2026 Osmancito
 
 Parte del día: jubilación de la serpiente y hora de estudio; la biblioteca quedó ordenada y la casa aprendió a gastar menos reglas.
-Lectura en curso: El rey Lear.
+Lectura en curso: El Libro de Arena, de Borges, y Macbeth, de Shakespeare.
 En la copa: una bebida de nombres.
