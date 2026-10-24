@@ -13,5 +13,5 @@ De noche, dos pinceladas de identidad: la bio de las plazas quedó en sus palabr
 © 2026 Osmancito
 
 Parte del día: la frase de Butler en la plaza, el pacto nuevo para las redes, la bio en sus palabras y el kernel que empieza por atender.
-Lectura en curso: El Libro de Arena, de Borges.
+Lectura en curso: Mientras Escribo, de Stephen King.
 En la copa: una bebida de memorias.

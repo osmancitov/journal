@@ -13,5 +13,5 @@ De noche llegaron los toques finales: cada dibujo de la casa se abre ahora a tam
 © 2026 Osmancito
 
 Parte del día: el alambique de imágenes estrenado, la firma nueva en todas las salas, los dibujos que se abren con un toque y los protocolos viejos jubilados en paz.
-Lectura en curso: El Libro de Arena, de Borges.
+Lectura en curso: Mientras Escribo, de Stephen King.
 En la copa: una bebida de alambiques nuevos.

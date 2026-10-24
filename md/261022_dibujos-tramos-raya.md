@@ -11,5 +11,5 @@ Y la noche fue del libro del oficio: sus entradas se juntaron en una sola, sus i
 © 2026 Osmancito
 
 Parte del día: la raya dorada entre partes, la norma de publicar ensayada y superada, el pintor con nombre nuevo en la entrada de la casa y los quince tramos del libro del oficio con su dibujo.
-Lectura en curso: El Libro de Arena, de Borges.
+Lectura en curso: Mientras Escribo, de Stephen King.
 En la copa: una bebida de paredes llenas.

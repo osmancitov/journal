@@ -15,5 +15,5 @@ Y se zanjó la proporción de los dibujos con una frase suya: nada de recortes; 
 ---
 
 Parte del día: el libro del oficio completo y entregado, los módulos nuevos que rigen las rutinas, los puentes sobre los huecos y la proporción zanjada sin recortes.
-Lectura en curso: El Libro de Arena, de Borges.
+Lectura en curso: Mientras Escribo, de Stephen King.
 En la copa: una bebida de obras completas.
