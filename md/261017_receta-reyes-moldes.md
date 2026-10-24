@@ -15,5 +15,5 @@ Y la receta no se quedó quieta: dos libros nuevos entraron al horno por la mism
 © 2026 Osmancito
 
 Parte del día: la receta fijada en la sala de máquinas, el rey completo en veintiséis escenas, dos libros nuevos en el horno y la obra escocesa empezada de cero.
-Lectura en curso: El Libro de Arena, de Borges.
+Lectura en curso: La Tragedia del Rey Lear y Macbeth, de Shakespeare; Mientras Escribo, de Stephen King; Autobiografía de un yogui, de Paramhansa Yogananda.
 En la copa: una bebida de recetas.

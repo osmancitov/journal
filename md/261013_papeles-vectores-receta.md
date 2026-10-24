@@ -17,5 +17,5 @@ De postre, el primer cuento del libro se rehizo en seis tramos textuales cosidos
 © 2026 Osmancito
 
 Parte del día: motores amansados, una obra cerrada por partida doble, cuatro medidas completas y una nube que gira; la receta pasó su primera prueba.
-Lectura en curso: El Libro de Arena, de Borges.
+Lectura en curso: El Libro de Arena y El Otro, de Borges.
 En la copa: una bebida de órbitas.

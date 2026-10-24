@@ -13,5 +13,5 @@ Se probó el modelo en la primera escena del rey y el paisaje apareció: el rey 
 © 2026 Osmancito
 
 Parte del día: tres obras completas con sus grabados, el libro de reglas aligerado y el nacimiento del Ranking de Menciones con su primer mapa.
-Lectura en curso: El Libro de Arena, de Borges.
+Lectura en curso: Autobiografía de un yogui, de Paramhansa Yogananda; Macbeth y La Tragedia del Rey Lear, de Shakespeare; El Libro de Arena, de Borges; Mientras Escribo, de Stephen King.
 En la copa: una bebida de montañas.

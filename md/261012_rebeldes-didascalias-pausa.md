@@ -17,5 +17,5 @@ La noche mandó los motores a recargar. Hubo un malentendido chiquito —la orde
 © 2026 Osmancito
 
 Parte del día: dos prófugas capturadas, una obra cerrada, una galería colgada y una bóveda en orden; la noche apagó el garaje.
-Lectura en curso: El rey Lear.
+Lectura en curso: El Libro de Arena, de Borges, y Macbeth, de Shakespeare.
 En la copa: una bebida de cierres.

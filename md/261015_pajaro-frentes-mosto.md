@@ -17,5 +17,5 @@ Ya en la noche llegaron las primeras campanadas: el administrador de una gran pl
 © 2026 Osmancito
 
 Parte del día: una cuenta que volvió de su letargo, cuatro frentes abiertos y dos piezas colgadas con su óleo; la misión quedó declarada y el mosto aprendió su regla.
-Lectura en curso: Todo es una voz, de Hugo.
+Lectura en curso: Todo es una voz, de Victor Hugo.
 En la copa: una bebida de regresos.

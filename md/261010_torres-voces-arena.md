@@ -21,5 +21,5 @@ Confesó el cansancio al final, del bueno, el que deja ejercitar el músculo que
 © 2026 Osmancito
 
 Parte del día: jornada larga de torres y mapas; el corpus se dejó ver entero y la casa ganó costumbres nuevas.
-Lectura en curso: El Libro de Arena, de Borges.
+Lectura en curso: El Libro de Arena, de Borges, y Macbeth, de Shakespeare.
 En la copa: una bebida de mapas.

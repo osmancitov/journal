@@ -15,5 +15,5 @@ Ya de noche la casa estrenó una sala dedicada a lo social, colgó allí una ent
 © 2026 Osmancito
 
 Parte del día: reglas en dos libros, un héroe navegando el Paso del Noroeste, enlaces de oro y puertas de noche; el Lear cerró sus medidas y ganó su nube.
-Lectura en curso: El Libro de Arena, de Borges.
+Lectura en curso: La Tragedia del Rey Lear, de Shakespeare.
 En la copa: una bebida de velas.

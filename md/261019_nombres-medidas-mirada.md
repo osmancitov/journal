@@ -13,5 +13,5 @@ Y la noche trajo la firma. La casa revisó cómo estaba firmando su trabajo y ta
 © 2026 Osmancito
 
 Parte del día: las medidas del libro de King en el taller, el tamaño de las imágenes bautizado Imagen General y la firma de la casa fijada para siempre.
-Lectura en curso: El Libro de Arena, de Borges.
+Lectura en curso: Mientras Escribo, de Stephen King.
 En la copa: una bebida de firmas.

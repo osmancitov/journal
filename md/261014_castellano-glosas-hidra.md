@@ -17,5 +17,5 @@ La noche trajo al poeta francés. Su poema más largo entró a la casa en edici�
 © 2026 Osmancito
 
 Parte del día: la barra completa, la ley del castellano, una obra entera y un poema inmenso interlineado; la glosa ganó su estatuto.
-Lectura en curso: El Libro de Arena, de Borges.
+Lectura en curso: El Otro, de Borges; Macbeth, de Shakespeare; Ce que dit la bouche d'ombre, de Victor Hugo.
 En la copa: una bebida de astros.
