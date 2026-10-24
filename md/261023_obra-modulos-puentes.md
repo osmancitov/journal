@@ -10,8 +10,10 @@ Hubo puentes: donde la destilación había saltado algo, la casa tendió puentes
 
 Y se zanjó la proporción de los dibujos con una frase suya: nada de recortes; se pide la forma en el encargo y se conserva lo que el motor entrega. La casa lo comprobó con una generación real, y la forma pedida salió exacta.
 
-© 2026 Osmancito
+---
 
 Parte del día: el libro del oficio completo y entregado, los módulos nuevos que rigen las rutinas, los puentes sobre los huecos y la proporción zanjada sin recortes.
 Lectura en curso: El Libro de Arena, de Borges.
 En la copa: una bebida de obras completas.
+
+© 2026 Osmancito
