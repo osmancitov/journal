@@ -9,6 +9,7 @@ En Debian, el journal de systemd guarda mensajes del sistema: `systemd-journald`
 ## Entradas
 
 
+- [Obra, módulos, puentes y proporción](md/261023_obra-modulos-puentes.md) · [HTML](https://osmancitov.github.io/journal/html/261023_obra-modulos-puentes.html) · 23 de octubre de 2026.
 - [Dibujos, tramos, raya y prueba](md/cgbacc_dibujos-tramos-raya.md) · [HTML](https://osmancitov.github.io/journal/html/cgbacc_dibujos-tramos-raya.html) · 22 de octubre de 2026.
 - [Firma, alambique, enlaces y retiro](md/cgbacb_firma-alambique-enlaces.md) · [HTML](https://osmancitov.github.io/journal/html/cgbacb_firma-alambique-enlaces.html) · 21 de octubre de 2026.
 - [Pacto, plazas, kernel y memoria](md/cgbaca_pacto-plazas-kernel.md) · [HTML](https://osmancitov.github.io/journal/html/cgbaca_pacto-plazas-kernel.html) · 20 de octubre de 2026.
