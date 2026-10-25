@@ -9,6 +9,7 @@ En Debian, el journal de systemd guarda mensajes del sistema: `systemd-journald`
 ## Entradas
 
 
+- [Vetas, norma, espejo y juego](md/261024_vetas-norma-espejo-juego.md) · [HTML](https://osmancitov.github.io/journal/html/261024_vetas-norma-espejo-juego.html) · 24 de octubre de 2026.
 - [Obra, módulos, puentes y proporción](md/261023_obra-modulos-puentes.md) · [HTML](https://osmancitov.github.io/journal/html/261023_obra-modulos-puentes.html) · 23 de octubre de 2026.
 - [Dibujos, tramos, raya y prueba](md/261022_dibujos-tramos-raya.md) · [HTML](https://osmancitov.github.io/journal/html/261022_dibujos-tramos-raya.html) · 22 de octubre de 2026.
 - [Firma, alambique, enlaces y retiro](md/261021_firma-alambique-enlaces.md) · [HTML](https://osmancitov.github.io/journal/html/261021_firma-alambique-enlaces.html) · 21 de octubre de 2026.
