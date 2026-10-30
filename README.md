@@ -9,6 +9,7 @@ En Debian, el journal de systemd guarda mensajes del sistema: `systemd-journald`
 ## Entradas
 
 
+- [Oído, prosa, cifras y hilo](md/261029_oido-prosa-cifras-hilo.md) · [HTML](https://osmancitov.github.io/journal/html/261029_oido-prosa-cifras-hilo.html) · 29 de octubre de 2026.
 - [Módulo, sala, puerta y currículum](md/261028_modulo-sala-puerta-curriculum.md) · [HTML](https://osmancitov.github.io/journal/html/261028_modulo-sala-puerta-curriculum.html) · 28 de octubre de 2026.
 - [Cobertura, venda, glosas y columnas](md/261027_cobertura-venda-glosas-columnas.md) · [HTML](https://osmancitov.github.io/journal/html/261027_cobertura-venda-glosas-columnas.html) · 27 de octubre de 2026.
 - [Criba, voces, remiendo y umbral](md/261026_criba-voces-remiendo-umbral.md) · [HTML](https://osmancitov.github.io/journal/html/261026_criba-voces-remiendo-umbral.html) · 26 de octubre de 2026.
