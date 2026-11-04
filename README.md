@@ -9,6 +9,7 @@ En Debian, el journal de systemd guarda mensajes del sistema: `systemd-journald`
 ## Entradas
 
 
+- [Ticker, módulo, pantalla y simulacro](md/261103_ticker-modulo-pantalla-simulacro.md) · [HTML](https://osmancitov.github.io/journal/html/261103_ticker-modulo-pantalla-simulacro.html) · 3 de noviembre de 2026.
 - [Vistas, libros, nota y pulso](md/261102_vistas-libros-nota-pulso.md) · [HTML](https://osmancitov.github.io/journal/html/261102_vistas-libros-nota-pulso.html) · 2 de noviembre de 2026.
 - [Maestros, fragua, reglas y goteo](md/261101_maestros-fragua-reglas-goteo.md) · [HTML](https://osmancitov.github.io/journal/html/261101_maestros-fragua-reglas-goteo.html) · 1 de noviembre de 2026.
 - [Nieve, crónica, resortes y ruta](md/261031_nieve-cronica-resortes-ruta.md) · [HTML](https://osmancitov.github.io/journal/html/261031_nieve-cronica-resortes-ruta.html) · 31 de octubre de 2026.
