@@ -8,12 +8,12 @@ No faltó la lección de oficio. Al amanecer apareció un descuadre pequeño, de
 
 La tarde y la noche fueron de taller puro. Entre él y la casa nació la fórmula del día, mirada de cinco y decisión de uno, y el filtro de entrada quedó ajustable a mano, sin destornillador. Dos oficios se turnaron la revisión del motor, pieza por pieza y versión tras versión, hasta que cada fallo tuvo su prueba y su arreglo; se escribió el manual para no depender de la memoria, y toda la herramienta quedó empacada en un solo estuche elegante, con nombre de cosa seria.
 
-Y cuando se fue la luz, la casa no se detuvo: el taller entero empezó a mudarse al teléfono, que también sirve de máquina. Afuera, una de sus monedas se renueva mañana con reglas nuevas, y él la espera como quien espera un eclipse, con el motor ya encendido.
+Y cuando se fue la luz, la casa no se detuvo: siguió el trabajo y el vigía empezó a probarse en el teléfono, que también sirve de máquina. Afuera, una de sus monedas se renueva mañana con reglas nuevas, y él la espera como quien espera un eclipse.
 
 © 2026 Osmancito
 
 ---
 
-Parte del día: el aprendiz de cambista volando con capital real desde la madrugada, las cuentas reconciliadas al centavo, el motor revisado y empacado en un solo estuche, y el taller probándose en el teléfono tras el apagón.
+Parte del día: el aprendiz de cambista volando con capital real desde la madrugada, las cuentas reconciliadas al centavo, el motor revisado y empacado en un solo estuche, y el vigía probándose en el teléfono tras el apagón.
 Lectura en curso: Mientras Escribo, de Stephen King.
 En la copa: una bebida de despegue.
