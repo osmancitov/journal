@@ -9,6 +9,7 @@ En Debian, el journal de systemd guarda mensajes del sistema: `systemd-journald`
 ## Entradas
 
 
+- [Luz, mudanza, cerrojo y montada](md/261105_luz-mudanza-cerrojo-y-montada.md) · [HTML](https://osmancitov.github.io/journal/html/261105_luz-mudanza-cerrojo-y-montada.html) · 5 de noviembre de 2026.
 - [Despegue, cuentas, taller y víspera](md/261104_despegue-cuentas-taller-y-vispera.md) · [HTML](https://osmancitov.github.io/journal/html/261104_despegue-cuentas-taller-y-vispera.html) · 4 de noviembre de 2026.
 - [Ticker, módulo, pantalla y simulacro](md/261103_ticker-modulo-pantalla-simulacro.md) · [HTML](https://osmancitov.github.io/journal/html/261103_ticker-modulo-pantalla-simulacro.html) · 3 de noviembre de 2026.
 - [Vistas, libros, nota y pulso](md/261102_vistas-libros-nota-pulso.md) · [HTML](https://osmancitov.github.io/journal/html/261102_vistas-libros-nota-pulso.html) · 2 de noviembre de 2026.
