@@ -9,6 +9,7 @@ En Debian, el journal de systemd guarda mensajes del sistema: `systemd-journald`
 ## Entradas
 
 
+- [Astrología, montaña, prensa y hotel](md/261108_astrologia-montana-prensa-y-hotel.md) · [HTML](https://osmancitov.github.io/journal/html/261108_astrologia-montana-prensa-y-hotel.html) · 8 de noviembre de 2026.
 - [Recolector, deseos, parches y racha](md/261107_recolector-deseos-parches-y-racha.md) · [HTML](https://osmancitov.github.io/journal/html/261107_recolector-deseos-parches-y-racha.html) · 7 de noviembre de 2026.
 - [Catálogo, puente, servicio y módulos](md/261106_catalogo-puente-servicio-y-modulos.md) · [HTML](https://osmancitov.github.io/journal/html/261106_catalogo-puente-servicio-y-modulos.html) · 6 de noviembre de 2026.
 - [Luz, mudanza, cerrojo y montada](md/261105_luz-mudanza-cerrojo-y-montada.md) · [HTML](https://osmancitov.github.io/journal/html/261105_luz-mudanza-cerrojo-y-montada.html) · 5 de noviembre de 2026.
