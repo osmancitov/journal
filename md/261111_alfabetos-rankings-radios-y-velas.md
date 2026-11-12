@@ -14,7 +14,7 @@ Los boletines del día llegaron con una sección nueva, la que mira qué podría
 
 La sobremesa fue musical. Él encontró un catálogo inmenso de radios del mundo y, ante demasiadas puertas, pidió criterio prestado. La asistente escuchó de verdad: cada emisora comprobada sonando en vivo antes de recomendarla, y entregó una selección de electrónicas serenas que ya suenan en la casa.
 
-La noche siguió la marcha del archivo, que pasó de la mitad de la lista. Hubo un susto doméstico: la máquina se apagó un rato por un olvido y, al volver, el guardián retomó el trabajo exactamente donde lo había dejado, como si nada. Y se cazó una omisión escondida: el activo que mide a todos los demás no estaba en la lista, por venir esta de los pares; su reparación ya está preparada, con filas neutras para que la lista no cargue la excepción.
+La noche siguió la marcha del archivo, que pasó de la mitad de la lista. Hubo un susto doméstico: la máquina se apagó un rato por un olvido y, al volver, el guardián retomó el trabajo exactamente donde lo había dejado, como si nada. Y se cazó una omisión escondida: el activo que mide a todos los demás no estaba en la lista, por venir esta de los pares; su reparación quedó aplicada y verificada esa misma noche, con filas neutras para que la lista no cargue la excepción.
 
 El ánimo cierra alto: hubo hito de alfabetos, listas publicadas, música nueva en la casa y una máquina que ya se recupera sola de los tropiezos domésticos.
 
