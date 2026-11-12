@@ -9,6 +9,7 @@ En Debian, el journal de systemd guarda mensajes del sistema: `systemd-journald`
 ## Entradas
 
 
+- [Alfabetos, rankings, radios y velas](md/261111_alfabetos-rankings-radios-y-velas.md) · [HTML](https://osmancitov.github.io/journal/html/261111_alfabetos-rankings-radios-y-velas.html) · 11 de noviembre de 2026: El día de la gran reconstrucción ordenada por importancia: la máquina aprendió a leer nombres en caracteres chinos, la Tesorería estrenó dos rankings y la sobremesa trajo radios del mundo elegidas a oído.
 - [Sacudida, sobremesa, caballo y fichas](md/261110_sacudida-sobremesa-caballo-y-fichas.md) · [HTML](https://osmancitov.github.io/journal/html/261110_sacudida-sobremesa-caballo-y-fichas.html) · 10 de noviembre de 2026.
 - [Carpetas, cociente, franjas y apagón](md/261109_carpetas-cociente-franjas-y-apagon.md) · [HTML](https://osmancitov.github.io/journal/html/261109_carpetas-cociente-franjas-y-apagon.html) · 9 de noviembre de 2026.
 - [Astrología, montaña, prensa y hotel](md/261108_astrologia-montana-prensa-y-hotel.md) · [HTML](https://osmancitov.github.io/journal/html/261108_astrologia-montana-prensa-y-hotel.html) · 8 de noviembre de 2026.
