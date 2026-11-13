@@ -9,6 +9,7 @@ En Debian, el journal de systemd guarda mensajes del sistema: `systemd-journald`
 ## Entradas
 
 
+- [Conferencia, electricidad, teatro y renuncia](md/261112_conferencia-electricidad-teatro-y-renuncia.md) · [HTML](https://osmancitov.github.io/journal/html/261112_conferencia-electricidad-teatro-y-renuncia.html) · 12 de noviembre de 2026: El día de la conferencia escuchada en vivo y transcrita en casa: una fábrica con contrato pero sin electricidad, la prensa vigilada hora a hora, una renuncia inesperada y la lección de llegar temprano al teatro.
 - [Alfabetos, rankings, radios y velas](md/261111_alfabetos-rankings-radios-y-velas.md) · [HTML](https://osmancitov.github.io/journal/html/261111_alfabetos-rankings-radios-y-velas.html) · 11 de noviembre de 2026: El día de la gran reconstrucción ordenada por importancia: la máquina aprendió a leer nombres en caracteres chinos, la Tesorería estrenó dos rankings y la sobremesa trajo radios del mundo elegidas a oído.
 - [Sacudida, sobremesa, caballo y fichas](md/261110_sacudida-sobremesa-caballo-y-fichas.md) · [HTML](https://osmancitov.github.io/journal/html/261110_sacudida-sobremesa-caballo-y-fichas.html) · 10 de noviembre de 2026.
 - [Carpetas, cociente, franjas y apagón](md/261109_carpetas-cociente-franjas-y-apagon.md) · [HTML](https://osmancitov.github.io/journal/html/261109_carpetas-cociente-franjas-y-apagon.html) · 9 de noviembre de 2026.
