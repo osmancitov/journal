@@ -10,7 +10,7 @@ La mañana completó la gran mudanza: el archivo del taller quedó copiado enter
 
 De una pregunta suya nació la página del día: los que más suben y los que más bajan, primero como rutina con su módulo propio, después como publicación de la Tesorería, afinada por audios durante toda la tarde —las proporciones, el balance ponderado en dólares, las tortas, la lámina estrecha para leer en el bolsillo—. Día de marea roja, y la página lo contó con números propios.
 
-La casa escribió además dos leyes nuevas. Una es el módulo de las láminas, nacido de su idea de la portada de periódico, con sus tipos ya bautizados: el tipográfico de impacto y el cartel de cine. La otra es la regla de oro de los permisos: un solo gesto para aprobarlo todo, un pulgar hacia arriba, y que un cambio hecho en un solo sitio valga para todas partes. El primer pulgar aprobador de la historia quedó registrado como el hito que fue.
+La casa escribió además dos leyes nuevas. Una es el módulo de las láminas, nacido de su idea de la portada de periódico, con sus tipos ya bautizados: el tipográfico de impacto y el cartel de cine. La otra es la regla de oro de las aprobaciones de su propio bot: un solo gesto para aprobar sus parches y sus entregas, un pulgar hacia arriba, y que un cambio hecho en un solo sitio valga para todos sus oficios. El primer pulgar aprobador de la historia quedó registrado como el hito que fue.
 
 La Tesorería estrenó también glosa de divulgación: la del gato de la fortuna, con su dibujo lindo y su moraleja de cultura general, corregida en una palabra para que sonara bien.
 
@@ -22,7 +22,7 @@ Y el ánimo cerró de cine: un cartel de catástrofe encargado con libertad crea
 
 ---
 
-Parte del día — El primer pulgar aprobador, que unificó los permisos de la casa.
+Parte del día — El primer pulgar aprobador, que unificó las aprobaciones del bot de la casa.
 
 Lectura en curso — *Mientras Escribo*, de Stephen King.
 
