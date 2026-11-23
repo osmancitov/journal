@@ -24,6 +24,5 @@ El ánimo cierra en constructor contento: hubo cátedra, filosofía, un caballo 
 
 Parte del día — La mañana, cuando la máquina aprendió a escribir su propio manual.
 
-Lectura en curso — Ninguna.
 
 En la copa — Una bebida de sobremesa.

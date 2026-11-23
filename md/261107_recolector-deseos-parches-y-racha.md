@@ -12,7 +12,6 @@ La tarde trajo la misión grande —un patrón para las candidatas a subir— y 
 
 Parte del día: la cadena recolector-analizador-publicador en turno continuo, el protocolo de parches con aprobación y huella, el libro de deseos resumido a lo esencial, el manual escrito y la misión probabilística en marcha.
 
-Lectura en curso: Ninguna.
 
 En la copa: una bebida de turno completo.
 

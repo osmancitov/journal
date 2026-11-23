@@ -15,5 +15,4 @@ Hubo aplausos de por medio, una pregunta de cables y operadoras resuelta con fue
 ---
 
 Parte del día: la Tesorería con entrada nueva, la regla de la prosa escuchable nacida del texto a voz, los módulos y el Núcleo ajustados y El hilo del dinero abierto.
-Lectura en curso: Ninguna.
 En la copa: una bebida de prosa escuchada.

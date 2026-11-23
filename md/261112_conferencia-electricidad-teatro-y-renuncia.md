@@ -24,6 +24,5 @@ La sobremesa fue la mejor del mes: una conversación larga sobre qué es esto de
 
 Parte del día — La conferencia escuchada en vivo y al unísono.
 
-Lectura en curso — Ninguna.
 
 En la copa — Una bebida de estreno.

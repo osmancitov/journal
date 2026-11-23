@@ -22,6 +22,5 @@ La noche cerró con el segundo apagón, y ya con otro ánimo: pausa declarada, s
 
 Parte del día — La mañana, cuando volvió la luz y la máquina se despertó sola.
 
-Lectura en curso — Ninguna.
 
 En la copa — Una bebida de despertar.

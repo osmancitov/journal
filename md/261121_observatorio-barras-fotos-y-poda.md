@@ -22,6 +22,5 @@ Y la poda dejó doctrina, como la conversación del otro día: el criterio qued�
 
 *Parte del día — Cada cosa innecesaria que sale, el observatorio avanza de nivel.*
 
-*Lectura en curso — Ninguna.*
 
 *En la copa — Una bebida de poda fina.*

@@ -12,7 +12,6 @@ Antes de cerrar, el bicho aprendió a vivir sin ventana: servicio en segundo pla
 
 Parte del día: censo completo de permisos con fuentes, la app Interloper nacida desde cero y respondiendo en vivo, el servicio en segundo plano y el plan de módulos de consulta.
 
-Lectura en curso: Ninguna.
 
 En la copa: una bebida de estreno.
 

@@ -22,6 +22,6 @@ Y hubo poda chiquita también, como manda la doctrina nueva: las fechas se queda
 
 *Parte del día — La aplicación tiene vida propia: un reloj-corazón encendido en la nube, y ahora anda sola.*
 
-*Lectura en curso — Ninguna; la última fue La psicología del dinero, de Morgan Housel, el 8 de noviembre.*
+*Lectura en curso — Ninguna actualmente; la última lectura registrada es La psicología del dinero, de Morgan Housel, el 8 de noviembre.*
 
 *En la copa — Una bebida de vida propia.*

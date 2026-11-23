@@ -15,5 +15,4 @@ Y cuando se fue la luz, la casa no se detuvo: siguió el trabajo y el vigía emp
 ---
 
 Parte del día: el aprendiz de cambista volando con capital real desde la madrugada, las cuentas reconciliadas al centavo, el motor revisado y empacado en un solo estuche, y el vigía probándose en el teléfono tras el apagón.
-Lectura en curso: Ninguna.
 En la copa: una bebida de despegue.

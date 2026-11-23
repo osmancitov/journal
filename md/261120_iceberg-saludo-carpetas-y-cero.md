@@ -22,6 +22,5 @@ La tarde fue un diseño hablado a dos voces: una carpeta de papeles calculados p
 
 *Parte del día — El cero es verde: no existe una tercera cosa.*
 
-*Lectura en curso — Ninguna.*
 
 *En la copa — Una bebida de hielo verde.*

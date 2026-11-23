@@ -12,7 +12,6 @@ Cerró el día con un nacimiento: el vigía se diseñará de nuevo desde cero, c
 
 Parte del día: el taller reconstruido dos veces tras dos apagones con su propio manual, el cerrojo de la entrada afinado en vivo, la primera montada real del aprendiz contada al centavo y el vigía nuevo bautizado en la mesa.
 
-Lectura en curso: Ninguna.
 
 En la copa: una bebida de montada.
 

@@ -15,5 +15,4 @@ Al caer la tarde, la pregunta de la mañana echó raíz: el Dominio Cero, la reg
 ---
 
 Parte del día: la unificación de los módulos bajo el Núcleo, las puertas verticales nuevas de las salas, el ajuste de raíz del Dominio Cero, «Las puertas de Warren Ellis» en la sala Social y las entradas nuevas de la Tesorería.
-Lectura en curso: Ninguna.
 En la copa: una bebida de luz de umbral.

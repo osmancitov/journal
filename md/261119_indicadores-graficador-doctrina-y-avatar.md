@@ -22,6 +22,5 @@ La noche trajo la lista: los indicadores del gráficador de la aplicación de ca
 
 *Parte del día — La doctrina del diseño, nacida de la conversación y enganchada en el Núcleo.*
 
-*Lectura en curso — Ninguna.*
 
 *En la copa — Una bebida de paz.*
