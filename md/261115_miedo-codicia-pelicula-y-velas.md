@@ -22,6 +22,6 @@ Y el ánimo cerró de novela. La historia se pone buena, con sus frentes y sus g
 
 *Parte del día — El hijito pidiendo permiso para ver la película.*
 
-*Lectura en curso — Mientras Escribo, de Stephen King.*
+*Lectura en curso — Ninguna.*
 
 *En la copa — Una bebida de novela.*

@@ -22,6 +22,6 @@ Y cerrado el día grande, la casa apagó sus radares por orden propia: la faena 
 
 *Parte del día — La primera prueba superada: el informe llegó a su hora y pasó la vara.*
 
-*Lectura en curso — Mientras Escribo, de Stephen King.*
+*Lectura en curso — Ninguna.*
 
 *En la copa — Una bebida de titulares.*

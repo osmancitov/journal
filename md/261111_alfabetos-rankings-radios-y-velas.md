@@ -24,6 +24,6 @@ El ánimo cierra alto: hubo hito de alfabetos, listas publicadas, música nueva 
 
 Parte del día — La mañana, cuando la máquina leyó su primer nombre en caracteres chinos.
 
-Lectura en curso — *Mientras Escribo*, de Stephen King.
+Lectura en curso — Ninguna.
 
 En la copa — Una bebida de música.

@@ -24,6 +24,6 @@ El ánimo cierra en curiosidad limpia: la del hombre que se pasa el día pregunt
 
 Parte del día — La tarde, cuando el sitio recibió su nombre: Hotel Osmancito.
 
-Lectura en curso — *Mientras Escribo*, de Stephen King, y *La psicología del dinero*, de Morgan Housel.
+Lectura en curso — *La psicología del dinero*, de Morgan Housel.
 
 En la copa — Una bebida de bautizo.

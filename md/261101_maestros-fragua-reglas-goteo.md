@@ -13,5 +13,5 @@ Y cuando el día parecía terminado, la Destilería abrió su goteo. El libro de
 ---
 
 Parte del día: la lista de maestros del oficio defendida, completada y publicada con su retrato; la firma de la casa centralizada y las reglas de escritura reforzadas; la Destilería en goteo con las obras de la noche.
-Lectura en curso: Mientras Escribo, de Stephen King; La psicología del dinero, de Morgan Housel; El nuevo vivir del trading, de Alexander Elder.
+Lectura en curso: La psicología del dinero, de Morgan Housel, y El nuevo vivir del trading, de Alexander Elder.
 En la copa: una bebida de fragua.

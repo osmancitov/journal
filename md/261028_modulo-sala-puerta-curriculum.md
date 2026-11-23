@@ -15,5 +15,5 @@ El ánimo cerró con la alegría quieta de la casa que crece: una habitación m�
 ---
 
 Parte del día: el módulo de investigación de activos nacido y estrenado, el camino para incorporar salas escrito y la Tesorería abierta con su primer informe; y el currículum de una página.
-Lectura en curso: Mientras Escribo, de Stephen King.
+Lectura en curso: Ninguna.
 En la copa: una bebida de puertas nuevas.

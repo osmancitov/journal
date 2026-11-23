@@ -24,6 +24,6 @@ Y el ánimo cerró de cine: un cartel de catástrofe encargado con libertad crea
 
 Parte del día — El primer pulgar aprobador, que unificó las aprobaciones del bot de la casa.
 
-Lectura en curso — *Mientras Escribo*, de Stephen King.
+Lectura en curso — Ninguna.
 
 En la copa — Una bebida de cine.

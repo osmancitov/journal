@@ -24,6 +24,6 @@ En la noche nació la cajita: una sola pieza por donde pasan todos los reportes 
 
 *Parte del día — La primera ganancia, contada en tres viñetas.*
 
-*Lectura en curso — Mientras Escribo, de Stephen King.*
+*Lectura en curso — Ninguna.*
 
 *En la copa — Una bebida de barquitos de papel.*

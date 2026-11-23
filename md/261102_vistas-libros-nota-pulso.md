@@ -15,5 +15,5 @@ Pero lo que levantó el día fue la tarde con el mercado. Primero las preguntas 
 ---
 
 Parte del día: las salas con su vista nueva desde dentro y el regreso uniforme, el manual de gráficos abierto en la Destilería, la regla de la nota máxima escrita en el Núcleo y el vigía del pulso del mercado nacido y en marcha.
-Lectura en curso: Mientras Escribo, de Stephen King; La psicología del dinero, de Morgan Housel; Análisis técnico de los mercados financieros, de John J. Murphy.
+Lectura en curso: La psicología del dinero, de Morgan Housel, y Análisis técnico de los mercados financieros, de John J. Murphy.
 En la copa: una bebida de pulso.

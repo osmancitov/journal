@@ -22,6 +22,6 @@ Y el ánimo quedó dicho desde la mañana: el hijito lo tiene con la vida feliz.
 
 *Parte del día — La galería de mapas quedó perfecta de toda perfección.*
 
-*Lectura en curso — Mientras Escribo, de Stephen King.*
+*Lectura en curso — Ninguna.*
 
 *En la copa — Una bebida de mapa del tesoro.*

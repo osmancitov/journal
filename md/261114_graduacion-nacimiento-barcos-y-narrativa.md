@@ -20,6 +20,6 @@ La noche cerró con la lección que resume el día y que de paso resume este jou
 
 Parte del día — El nacimiento del miembro nuevo, que habló al encender.
 
-Lectura en curso — *Mientras Escribo*, de Stephen King.
+Lectura en curso — Ninguna.
 
 En la copa — Una bebida de bautizo.

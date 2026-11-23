@@ -15,5 +15,5 @@ El ánimo cerró con el cansancio bueno de la relectura, ese de apagar la lámpa
 ---
 
 Parte del día: la novela del ruido blanco pasada por la criba, las voces devueltas a su boca y los capítulos remendados de vuelta en el estante.
-Lectura en curso: Mientras Escribo, de Stephen King, y White Noise, de Don DeLillo.
+Lectura en curso: White Noise, de Don DeLillo.
 En la copa: una bebida de relectura paciente.

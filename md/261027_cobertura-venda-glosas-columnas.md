@@ -15,5 +15,5 @@ A media tarde llegaron unas fotos de ruinas griegas a orillas del Mediterráneo,
 ---
 
 Parte del día: el método de la cobertura nacido, probado a ciegas y estrenado en los libros del estante.
-Lectura en curso: Mientras Escribo, de Stephen King; White Noise, de Don DeLillo; y Autobiografía de un yogui, de Paramhansa Yogananda.
+Lectura en curso: White Noise, de Don DeLillo, y Autobiografía de un yogui, de Paramhansa Yogananda.
 En la copa: una bebida de frases sin rótulo.

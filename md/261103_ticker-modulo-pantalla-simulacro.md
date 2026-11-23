@@ -13,5 +13,5 @@ La noche coronó el día. Para que nada de lo aprendido se perdiera, la casa esc
 ---
 
 Parte del día: el vigía del pulso hecho costumbre con unidad propia y monedas nuevas, otro capítulo de la conducta del dinero, el canal de mercado en la pantalla grande, el módulo nuevo del ticker y el aprendiz de cambista simulado.
-Lectura en curso: Mientras Escribo, de Stephen King; La psicología del dinero, de Morgan Housel.
+Lectura en curso: La psicología del dinero, de Morgan Housel.
 En la copa: una bebida de vigía con nombre.

@@ -15,5 +15,5 @@ El día cerró como cierran los días buenos de taller: una puerta en su lugar, 
 ---
 
 Parte del día: la puerta de Social recuperada sin nieve, la crónica de un dinero nacida como género nuevo, la lección de mercado de la tarde y el curso propio de trading diseñado con su hoja de ruta.
-Lectura en curso: Mientras Escribo, de Stephen King, y How to DeFi: Beginner, del equipo de investigación de CoinGecko.
+Lectura en curso: How to DeFi: Beginner, del equipo de investigación de CoinGecko.
 En la copa: una bebida de ruta trazada.
